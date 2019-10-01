@@ -1,2 +1,2 @@
 # AprendiendoCSharp
-Ejercicios para aprendizaje propio
+Ejercicios para aprendizaje propio de las funciones del Lenguaje C#
